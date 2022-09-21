@@ -62,9 +62,9 @@ export const config = {
       // 想要发送的人的名字
       name: "千千小朋友",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oCZRU6uVuDIxetNirz0zubEHz5kI",
+      id: "oCZRU6uVuDIxetNirz0zubEHz5kI","oCZRU6hrBPYnKcemCDMEiQnkfhjE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "R_fM60k02R-28l-fVnXLofYyQIRnMMBZEmWsLbHJ-iM",
+      useTemplateId: "1uIvJ4t9hTWQGUpJWVIlkyhQYOnYoYY7o_0tUHc2k7A",
       // 所在省份
       province: "天津",
       // 所在城市
