@@ -57,12 +57,12 @@ export const config = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: ["oCZRU6uVuDIxetNirz0zubEHz5kI",
+  USERS: [
   {
       // 想要发送的人的名字
       name: "千千小朋友",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "从今天开始我就是千千的御用天气预报员啦，请以后每天早上七点准时收看今日天气预报哦",
+      id: "oCZRU6uVuDIxetNirz0zubEHz5kI",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "	N4BP5AbI09IKsfW2NQDfFAm8yY_NUE4PkENlP0aG-ok",
       // 所在省份
