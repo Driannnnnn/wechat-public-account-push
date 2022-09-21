@@ -93,10 +93,9 @@ export const config = {
       ]
     },
       {
-      name: "老婆1",
+      name: "千千小朋友",
       id: "",
       useTemplateId: "",
-      province: "",
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
